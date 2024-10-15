@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gkjsgdkfjahfhdaf
+=======
+welcome all
+>>>>>>> 67e3052914ffaea1824a9ac303b8a2339111328d
